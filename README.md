@@ -48,12 +48,6 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 Medical Drug Search Engine (DataMancy)
-Built 3 containerized Python microservices with RAG framework connecting 4,000+ insurance records to OpenAI API
-
-### 🧬 LLM Protein Complex Generator (WPI)
-Developed O(N) graph-theory algorithm improving LLM accuracy to 84.5% across 55K+ data records on 91 protein complexes
-
 ### 📊 AP Exam Scores Interactive Map
 Created Tableau BI visualization for 120K+ MA students over 18 years, processing 1M+ records - [2,200+ views on LinkedIn](your-linkedin-article)
 
@@ -62,38 +56,3 @@ Chrome extension using Gemini API for email threat analysis, helping seniors eva
 
 ### 🚚 RostovExpress Delivery Platform
 Full-stack delivery service with 90+ users, 500+ orders processed, optimal courier distribution algorithm
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-</div>
-
-## 🎯 Current Goals
-
-- 🌱 Deepening knowledge in distributed systems and cloud architecture
-- 🤝 Contributing to open-source ML/AI projects
-- 📚 Mastering advanced algorithms and data structures
-- 🎓 Excelling in Computer Science at Hopkins
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 📧 Email: mzherne1@jh.edu
-- 💼 LinkedIn: [Your LinkedIn](your-linkedin-url)
-- 📱 Phone: 857-405-9223
-
----
-
-<div align="center">
-  
-*"The best way to predict the future is to invent it."* - Alan Kay
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
-
-</div>
