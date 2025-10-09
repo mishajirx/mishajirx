@@ -4,7 +4,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mzherne1@jh.edu)
-[![USACO](https://img.shields.io/badge/USACO-Platinum-gold?style=for-the-badge)](https://usaco.org)
 
 </div>
 
