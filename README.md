@@ -12,10 +12,9 @@
 
 - 🏫 **CS Student at Johns Hopkins University** (Class of 2028)
 - 🏆 **USACO Platinum Division** - Rank 36/15,564 (Top 0.25% globally)
-- 💼 Former Software Engineer Intern @ **DataMancy**
+- 💼 Software Engineer Intern @ **DataMancy**
 - 🧬 Bioinformatics Research Intern @ **WPI Korkin Lab**
-- 🚀 Co-founder & Director of **Massachusetts Computer Science Olympiad (MACSO)** - organized MA's largest coding competition with 275+ students and $38k+ in funding
-- 🌟 HackGT Winner (Data Visualization Track)
+- 🚀 Co-founder of **Massachusetts Computer Science Olympiad (MACSO)** - organized MA's largest coding competition with 275+ students and $38k+ in funding
 
 ## 🔥 What I'm Working On
 
