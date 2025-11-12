@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-- 🏫 **CS Student at Johns Hopkins University** (Class of 2028)
+- 🏫 **CS Student at Johns Hopkins University** 
 - 🏆 **USACO Platinum Division** - Rank 36/15,564 (Top 0.25% globally)
 - 💼 Software Engineer Intern @ **DataMancy**
 - 🧬 Bioinformatics Research Intern @ **WPI Korkin Lab**
