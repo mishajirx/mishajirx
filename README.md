@@ -50,7 +50,7 @@
 ### 📊 AP Exam Scores Interactive Map
 Created Tableau BI visualization for 120K+ MA students over 18 years, processing 1M+ records - [2,200+ views on LinkedIn](your-linkedin-article)
 
-### 🛡️ Veris - AI Security Consultant (HackGT Winner)
+### 🛡️ Veris - AI Security Consultant
 Chrome extension using Gemini API for email threat analysis, helping seniors evaluate digital security
 
 ### 🚚 RostovExpress Delivery Platform
